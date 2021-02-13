@@ -10,6 +10,7 @@ The design of the product is simple and feasible. The system monitors real-time 
 
    * The collected data is exported in a suitable graphical format for user interface. HMI component is added for user end along with mentioned specifications to meet all customer requirements. This was all validated through test reports and documentation.
 ## Proposed Embodiment 
-![prjctflowdiagramPNG.png](C:\Users\USER\Desktop\capstone_project)
+
+![](https://user-images.githubusercontent.com/78769090/107862982-b0d8bb00-6e1e-11eb-85fd-d1b5bc89c99e.PNG)
 
 
