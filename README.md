@@ -13,4 +13,16 @@ The design of the product is simple and feasible. The system monitors real-time 
 
 ![](https://user-images.githubusercontent.com/78769090/107862982-b0d8bb00-6e1e-11eb-85fd-d1b5bc89c99e.PNG)
 
+## Schematic 
+
+![finalSchematic](https://user-images.githubusercontent.com/78769090/107863370-edf27c80-6e21-11eb-80d8-1cb7a4440dd2.PNG)
+
+## Electrical Setup 
+
+
+1. ![](https://user-images.githubusercontent.com/78769090/107863342-ac61d180-6e21-11eb-9471-06d0a86a2e5e.jpg)
+
+
+
+1. ![](https://user-images.githubusercontent.com/78769090/107863346-bb488400-6e21-11eb-92a3-bbda369875b2.jpg)
 
