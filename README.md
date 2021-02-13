@@ -26,3 +26,9 @@ The design of the product is simple and feasible. The system monitors real-time 
 
 1. ![](https://user-images.githubusercontent.com/78769090/107863346-bb488400-6e21-11eb-92a3-bbda369875b2.jpg)
 
+
+
+## Readings Published on ThingSpeak.com
+
+
+![Temperature & Humidity readings](https://user-images.githubusercontent.com/78769090/107863492-c6e87a80-6e22-11eb-9f63-fde7c162b2c3.PNG)
